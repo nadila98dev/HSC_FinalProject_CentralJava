@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Nav from "./components/Nav";
-import ArtActivities from "./pages/Artactivities";
+import ArtDetail from "./pages/ArtDetail";
 
 
 
@@ -10,7 +10,7 @@ function App() {
     <>
     <Nav />
     
-
+    <ArtDetail />
 
     </>
     )

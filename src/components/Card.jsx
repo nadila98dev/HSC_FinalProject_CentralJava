@@ -2,10 +2,10 @@ import React from 'react';
 
 const Card = ({ imageSrc, title, description }) => {
     return (
-        <div className="mx-3 mt-6 flex flex-col self-start rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700 sm:shrink-0 sm:grow sm:basis-0">
+      <div className="mx-3 mt-6 flex flex-col self-start rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.01),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700 sm:shrink-0 sm:grow sm:basis-0">
       <a href="#!">
-        <img className="rounded-t-lg" src={imageSrc} alt={title} />
-        <div className="flex flex-row justify-end mt-10">
+        <img className="rounded-t-lg object-cover" src={imageSrc} alt={title} />
+        <div className=" flex flex-row justify-end mt-10">
           <button
             type="button"
             className="text-black bg-gray-200  focus:ring-4 focus:outline-none"

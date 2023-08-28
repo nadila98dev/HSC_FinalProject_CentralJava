@@ -6,8 +6,10 @@ export default {
       colors: {
         primarybg: "#fff",
         secondarybg: "#EC1B09",
+        btn_color: "#1D764D", 
       },
       fontFamily: {
+        secondary: ['Lora'],
         primary: ["Poppins"],
       },
     },
