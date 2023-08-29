@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "imageSrc": "src/assets/images/PendhapaArt.jpg",
+      "title": "Pendhapa Art Space",
+      "description": "Pendhapa Art Space atau lebih dikenal dengan sebutan PAS awalnya adalah bangunan perluasan"
+    },
+    {
+      "id": 2,
+      "imageSrc": "src/assets/images/LeksaGaneshaBatik2.jpg",
+      "title": "Leksa Ganesha Batik Gallery",
+      "description": "Benteng Vredeburg adalah saksi sejarah betapa kuatnya pengaruh Belanda dalam menjajah Indonesia."
+    },
+    {
+      "id": 3,
+      "imageSrc": "src/assets/images/GajahGalleryYogyakarta.jpg",
+      "title": "Gajah Gallery Yogyakarta and Yogya Art Lab",
+      "description": "Sejak 1996, Gajah Gallery telah menjadi badan pelopor di ranah seni rupa Asia Tenggara, mewakilkan seniman kawakan seperti Yunizar"
+    },
+    {
+      "id": 4,
+      "imageSrc": "src/assets/images/LanggengArt Foundation.jpg",
+      "title": "Langgeng Art Foundation",
+      "description": "Langgeng Art Foundation adalah sebuah Yayasan yang bergerak di bidang seni. Didirikan oleh seorang kolektor karya seni yang cukup kondang di Yogyakarta."
+    },
+    {
+      "id": 5,
+      "imageSrc": "src/assets/images/YantoCraft.jpg",
+      "title": "Yanto Craft",
+      "description": "Yanto Craft adalah Toko Seni & Kerajinan"
+    },
+    {
+      "id": 6,
+      "imageSrc": "src/assets/images/SemarGallery.jpg",
+      "title": "Semar Gallery",
+      "description": "Galeri Semar yang mengkhususkan diri dalam pembangunan kembali dan perbaikan rumah kayu tradisional khususnya rumah Jawa."
+    },
+    {
+      "id": 7,
+      "imageSrc": "src/assets/images/JogjaGallery.jpg",
+      "title": "Jogja Gallery",
+      "description": "Jogja Gallery adalah sebuah galeri seni visual di Yogyakarta yang berdiri sejak 19 September 2006, diresmikan oleh Sri"
+    },
+    {
+      "id": 8,
+      "imageSrc": "src/assets/images/LanaGallery.jpg",
+      "title": "Lana Gallery",
+      "description": "Lana Gallery. Galeri seni yang terletak di Jl. Menukan, dan menghadirkan beragam koleksi seni yang menarik"
+    },
+    {
+      "id": 9,
+      "imageSrc": "src/assets/images/BatikMasterClass.jpg",
+      "title": "Batik Master Class with Full Process",
+      "description": "Batik Master Class with Full Process by Alga Lova Tour"
+    }
+  ]

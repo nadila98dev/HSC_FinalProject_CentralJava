@@ -1,5 +1,5 @@
 import React from 'react'
-import DetailComponent from '../components/DetailComponent'
+import DetailComponent from '../components/ArtDetail/DetailComponent'
 
 const ArtDetail = () => {
   return (
