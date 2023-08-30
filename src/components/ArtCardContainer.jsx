@@ -45,6 +45,18 @@ const ArtCardContainer = () => {
         <div className='flex items-center justify-center mx-auto'>
         <button type='button' className='bg-transparent hover:bg-green-200 text-black font-semibold hover:text-btn_color py-2 px-4 border border-black hover:border-btn_color rounded'>Load More</button>
       </div>
+      
+      </div>
+      <div className='grid md:grid-cols-2 max-w-[1240px] m-auto sm:px-10'>
+        <div className='flex flex-wrap flex-col justify-center md:items-start w-full py-8'>
+          <hr id='dividerhr'/>
+          <h1 className=' mt-5 max-w-2x1 mb-4 text-4xl font-medium tracking-tight leading-none md:text-5x1 xl:text-6x1 dark:text-white font-lora'>Things to do in regions</h1> 
+        </div>
+        <div className='flex flex-col justify-center md:items-start w-full py-8'>
+          <p>Here are some suggestions of things to do in Yogyakarta</p>
+      </div>
+        
+          
       </div>
       <ArtCaraousel />
     </div>
