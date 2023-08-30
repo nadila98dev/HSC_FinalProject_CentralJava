@@ -3,7 +3,7 @@ import ContactInfo from './ContactInfo'
 
 const DetailComponent = () => {
   return (
-    <div className='w-full h-screen bg-primarybg'>
+    <div className='w-full h-screen bg-primarybg font-poppins'>
   <div className='grid md:grid-cols-2 m-auto '>
     <div className='object-cover grid-cols-4 shrink-0 lg:grid-cols-12 min-w-fit'>
       <img className='w-full' src="src/assets/images/BatikPaintingArt.jpg" alt="detzil_img" />
@@ -27,7 +27,7 @@ const DetailComponent = () => {
         </div>
       </div>
       <div className='max-w-7x1 nx-auto px-4 sm:px-6 md:px-8'>
-        <h1 className='my-4 text-5xl font-bold text-start'>Batik Painting Art</h1>
+        <h1 className='my-4 text-5xl font-bold text-start font-lora'>Batik Painting Art</h1>
       </div>
       <div className='flex flex-col max-w-7x1 nx-auto px-4 sm:px-6 md:px-8'>
       <p className='mt-4 max-w-3x1 space-y-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique fugiat praesentium ad, eos numquam ipsam nisi alias placeat repellendus accusantium iste saepe reprehenderit cumque animi eum iusto recusandae nemo consectetur!</p>

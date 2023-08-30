@@ -8,7 +8,7 @@ import Card from './ArtActivities/Card';
 const ArtCardContainer = () => {
 
     return (
-      <div className="w-full h-screen bg-primarybg">
+      <div className="w-full h-screen bg-primarybg font-poppins">
       <div className='grid md:grid-cols-2 max-w-[1240px] m-auto sm:px-10'>
       <div className='flex flex-wrap flex-col justify-center md:items-start w-full py-8'>
         <hr id='dividerhr'/>
@@ -20,7 +20,7 @@ const ArtCardContainer = () => {
           </svg>
         </a> 
         </div>
-      <div className='flex flex-col justify-center md:items-start w-full py-8 font-poppins'>
+      <div className='flex flex-col justify-center md:items-start w-full py-8'>
           <p>Yogyakarta have unique characteristics, and cultural attraction such as workshop that based on handmade stuff or paintings also any other art work that based on traditional way</p>
       </div>
     </div>
