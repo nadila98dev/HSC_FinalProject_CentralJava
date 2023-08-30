@@ -28,7 +28,7 @@ const Card = ({ imageSrc, title, description }) => {
           </button>
         </div>
       </a>
-      <div className="p-6">
+      <div className="p-6 font-poppins">
         <h5 className="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
           {title}
         </h5>
